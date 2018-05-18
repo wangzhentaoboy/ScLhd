@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stakejilu",
+    "texture": "4e225c69-d42a-4133-a064-03229a7b5d3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      40
+    ]
+  }
+}

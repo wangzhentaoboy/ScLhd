@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_battle_bg_lhd_xiazhu",
+    "texture": "5331c1ce-e629-4e39-8ff7-e35b5b8156e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      230,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      34
+    ]
+  }
+}

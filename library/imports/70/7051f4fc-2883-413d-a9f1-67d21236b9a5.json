@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_battle_trend_bg_gray1",
+    "texture": "8d2275ad-e6b4-4aba-9a20-a40469b013e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      542,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      542,
+      81
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_mimadenglv",
+    "texture": "d1f4f8e4-42fd-4fae-8cce-7a0a68f3f667",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      141,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      38
+    ]
+  }
+}

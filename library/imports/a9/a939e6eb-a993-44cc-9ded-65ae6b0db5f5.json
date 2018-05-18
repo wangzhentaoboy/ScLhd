@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "youkebtn",
+    "texture": "a876f8fe-1fcd-4628-9abd-722bc049aa7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      248,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      93
+    ]
+  }
+}

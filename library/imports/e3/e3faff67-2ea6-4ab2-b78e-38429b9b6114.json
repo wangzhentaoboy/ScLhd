@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_battle_btn_lhd_all",
+    "texture": "9a83a9c6-6dc8-4cf6-9a5e-a991dfc5ec94",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      80
+    ]
+  }
+}

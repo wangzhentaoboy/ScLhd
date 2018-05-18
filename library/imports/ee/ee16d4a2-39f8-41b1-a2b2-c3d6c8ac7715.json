@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_battle_bg_lhd_long",
+    "texture": "1f7e3d41-f535-4e60-869a-7e0f155dcec7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      315,
+      277
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      315,
+      277
+    ],
+    "capInsets": [
+      33,
+      36,
+      0,
+      32
+    ]
+  }
+}

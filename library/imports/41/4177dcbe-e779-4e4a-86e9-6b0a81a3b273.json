@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enterbox",
+    "texture": "2f9a7b19-2422-4f11-a4ae-ae377bce5bb4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      537,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      537,
+      50
+    ]
+  }
+}

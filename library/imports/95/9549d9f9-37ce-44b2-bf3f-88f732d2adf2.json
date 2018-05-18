@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_tabble_btn_autobet_disable",
+    "texture": "546ffb3d-1a02-40a9-9fb1-ae97ed4bea18",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      69
+    ]
+  }
+}

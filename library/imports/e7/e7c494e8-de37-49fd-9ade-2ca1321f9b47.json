@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_brnn_chouma1",
+    "texture": "ab069947-90ba-445e-85bf-fc9bc3f5ee1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      101
+    ]
+  }
+}

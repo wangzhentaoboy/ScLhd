@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "put_in_coins",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 120,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            581,
+            -329
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -191,
+            -20
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

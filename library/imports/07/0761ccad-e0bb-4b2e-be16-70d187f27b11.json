@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading_yhgj_gril",
+    "texture": "e6802616-52ee-49b1-8f0c-24be3fcb452e",
+    "atlas": "",
+    "rect": [
+      46,
+      0,
+      544,
+      678
+    ],
+    "offset": [
+      23,
+      0
+    ],
+    "originalSize": [
+      590,
+      678
+    ]
+  }
+}

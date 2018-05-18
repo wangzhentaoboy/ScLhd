@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_tabble_btn_autobet_normal",
+    "texture": "103a878c-725d-4fdb-98f3-dea8af406066",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      69
+    ]
+  }
+}

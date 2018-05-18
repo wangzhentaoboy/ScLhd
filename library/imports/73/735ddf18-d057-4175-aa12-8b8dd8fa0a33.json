@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_battle_bg_bottom_bar",
+    "texture": "9202aef0-e94e-4ec0-ab0c-5ce791f8f8d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      118
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_jishitangkuang",
+    "texture": "a7b82259-9780-49f4-95ba-9bf834311c4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      817,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      817,
+      62
+    ]
+  }
+}

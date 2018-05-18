@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big_battle_ic_closed",
+    "texture": "a1121214-e330-438d-a45a-a45b71d04473",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      77
+    ]
+  }
+}

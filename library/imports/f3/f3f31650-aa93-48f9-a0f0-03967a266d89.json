@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_naba",
+    "texture": "c8214e34-8126-4b31-9114-4137135c9a1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      49,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      48
+    ]
+  }
+}

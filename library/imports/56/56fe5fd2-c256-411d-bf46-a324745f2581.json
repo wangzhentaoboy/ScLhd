@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "resetbet",
+    "texture": "b1296962-f3c4-4daa-9b1a-d71a6d0cb813",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      69
+    ]
+  }
+}

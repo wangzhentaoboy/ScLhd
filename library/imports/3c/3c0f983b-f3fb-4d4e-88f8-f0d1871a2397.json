@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_zuoshitu",
+    "texture": "14ef6753-a528-4c96-982f-21ab0384aa09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      40
+    ]
+  }
+}

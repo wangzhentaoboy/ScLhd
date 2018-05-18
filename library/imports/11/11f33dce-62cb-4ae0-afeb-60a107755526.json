@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "timer_txt_state_3",
+    "texture": "766b0ca5-f0cd-4595-8b5f-7ebd3884156a",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      115,
+      60
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      168,
+      60
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8d2275ad-e6b4-4aba-9a20-a40469b013e8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "big_battle_trend_bg_gray1": {
+      "ver": "1.0.3",
+      "uuid": "7051f4fc-2883-413d-a9f1-67d21236b9a5",
+      "rawTextureUuid": "8d2275ad-e6b4-4aba-9a20-a40469b013e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 542,
+      "height": 81,
+      "rawWidth": 542,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

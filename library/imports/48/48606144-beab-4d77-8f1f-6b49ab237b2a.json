@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "head_gril1",
+    "texture": "da895bd0-e466-4f96-8f7b-c1703c44dbd7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      152
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      152
+    ]
+  }
+}
